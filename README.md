@@ -13,15 +13,18 @@
 
 Ниже пример кода из нашего приложения:
 
+```css
 .selector {
     font-family: "Awesome", Arial, sans-serif;
     color: red;
 }
+```
 
 Форматирование кода по п.4 задания:
 
+```css
 .partners-list {
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Awesome", Arial, sans-serif;
   color: #333;
   line-height: 1.6;
   padding-left: 20px;
@@ -31,3 +34,4 @@
   margin-bottom: 8px;
   list-style-type: decimal;
 }
+```
